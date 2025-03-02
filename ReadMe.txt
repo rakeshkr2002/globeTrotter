@@ -27,7 +27,7 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repository
 
    ```sh
-   git clone https://github.com/your_username/globetrotter.git
+   git clone https://github.com/rakeshkr2002/globetrotter.git
    cd globetrotter
    ```
 
