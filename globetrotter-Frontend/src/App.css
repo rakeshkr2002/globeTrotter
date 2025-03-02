@@ -1,0 +1,52 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+h1 {
+  color: #333;
+}
+
+button {
+  background-color: #008CBA;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #005f73;
+}
+
+.landing-container {
+  text-align: center;
+  padding: 50px;
+}
+
+.game-container {
+  text-align: center;
+  padding: 50px;
+}
+
+.clues-container, .options-container {
+  margin: 20px 0;
+}
+
+.feedback {
+  font-size: 18px;
+  color: #e74c3c;
+}
+
+.score {
+  font-size: 18px;
+  color: #2ecc71;
+}

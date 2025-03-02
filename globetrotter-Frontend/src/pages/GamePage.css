@@ -1,0 +1,32 @@
+.game-container {
+    text-align: center;
+    padding: 50px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 50px auto;
+  }
+  
+  .clues-container {
+    margin: 20px 0;
+  }
+  
+  .options-container button {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    padding: 15px;
+    font-size: 16px;
+  }
+  
+  .feedback {
+    font-size: 18px;
+    margin: 20px 0;
+  }
+  
+  .score {
+    font-size: 18px;
+    color: #2ecc71;
+  }
+  
